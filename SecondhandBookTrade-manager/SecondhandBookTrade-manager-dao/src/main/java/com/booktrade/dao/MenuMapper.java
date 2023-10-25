@@ -1,14 +1,10 @@
 package com.booktrade.dao;
 
-import java.util.List;
-
-import com.booktrade.pojo.Menu;
 
 /**   
  * @ClassName:  MenuMapper   
  * @Description:    
- * @author: xander  
- * @date:   2017年5月16日 下午8:31:47   
+ * @author: xander
  *      
  */  
 public interface MenuMapper {

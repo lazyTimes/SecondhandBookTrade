@@ -22,8 +22,7 @@ import com.booktrade.utils.StringUtil;
 /**   
  * @ClassName:  FunctionController   
  * @Description: 菜单控制类
- * @author: xander  
- * @date:   2017年5月16日 下午1:24:21   
+ * @author: xander
  *      
  */  
 @Controller

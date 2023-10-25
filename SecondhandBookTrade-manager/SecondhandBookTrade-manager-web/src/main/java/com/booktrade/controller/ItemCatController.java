@@ -21,8 +21,7 @@ import com.booktrade.utils.StringUtil;
 /**   
  * @ClassName:  ItemCatController   
  * @Description:书籍分类类目管理   
- * @author: xander  
- * @date:   2017年4月9日 下午6:06:29   
+ * @author: xander
  *      
  */  
 @Controller

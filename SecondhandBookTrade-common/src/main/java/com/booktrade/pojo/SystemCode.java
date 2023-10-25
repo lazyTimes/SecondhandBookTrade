@@ -2,8 +2,7 @@ package com.booktrade.pojo;
 /**   
  * @ClassName:  SystemCode   
  * @Description:系统相关状态码 实体类
- * @author: xander  
- * @date:   2017年5月15日 下午11:08:13   
+ * @author: xander
  *      
  */  
 @SuppressWarnings("all")

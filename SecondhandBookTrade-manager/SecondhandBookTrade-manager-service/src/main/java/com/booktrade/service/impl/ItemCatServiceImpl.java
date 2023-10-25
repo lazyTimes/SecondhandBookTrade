@@ -16,8 +16,7 @@ import com.booktrade.service.ItemCatService;
 /**   
  * @ClassName:  ItemCatServiceImpl   
  * @Description:书籍分类   
- * @author: xander  
- * @date:   2017年4月9日 下午6:05:20   
+ * @author: xander
  *      
  */  
 @Service

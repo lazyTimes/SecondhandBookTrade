@@ -3,8 +3,7 @@ package com.booktrade.pojo;
 /**   
  * @ClassName:  TreeNode   
  * @Description:书籍类目树定义  
- * @author: xander  
- * @date:   2017年4月9日 下午6:18:21   
+ * @author: xander
  *      
  */  
 public class TreeNode {

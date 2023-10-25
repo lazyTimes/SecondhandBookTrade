@@ -5,8 +5,7 @@ import java.util.Date;
 /**   
  * @ClassName:  User   
  * @Description:User实体类
- * @author: xander  
- * @date:   2017年5月15日 下午2:39:22   
+ * @author: xander
  *      
  */  
 public class User {

@@ -20,8 +20,7 @@ import com.booktrade.service.PermissionService;
 /**   
  * @ClassName:  PermissionController   
  * @Description: 角色权限管理   
- * @author: xander  
- * @date:   2017年4月8日 上午11:06:43   
+ * @author: xander
  *      
  */  
 @Controller

@@ -2,8 +2,7 @@ package com.booktrade.pojo;
 /**   
  * @ClassName:  PictureResult   
  * @Description: 上传图片的返回结果定义   
- * @author: xander  
- * @date:   2017年4月9日 下午6:33:50   
+ * @author: xander
  *      
  */  
 public class PictureResult {

@@ -33,8 +33,7 @@ import com.booktrade.utils.StringUtil;
 /**   
  * @ClassName:  UserController   
  * @Description: 用户管理   
- * @author: xander  
- * @date:   2017年4月8日 上午11:06:43   
+ * @author: xander
  *      
  */  
 @Controller
