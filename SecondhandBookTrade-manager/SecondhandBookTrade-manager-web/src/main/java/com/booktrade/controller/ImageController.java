@@ -29,7 +29,7 @@ import com.booktrade.utils.StringUtil;
 /**   
  * @ClassName:  ImageController   
  * @Description:轮播图控制器   
- * @author: zhoudl  
+ * @author: xander  
  * @date:   2017年5月22日 下午1:29:23   
  *      
  */

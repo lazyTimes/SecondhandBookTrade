@@ -30,7 +30,7 @@ import org.apache.ibatis.session.RowBounds;
 /**
  * sqlserver2012 基于 RowBounds 的分页
  *
- * @author liuzh
+ * @author xander
  */
 public class SqlServer2012RowBoundsDialect extends SqlServerRowBoundsDialect {
 

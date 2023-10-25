@@ -3,7 +3,7 @@ package com.booktrade.pojo;
 /**   
  * @ClassName:  Menu   
  * @Description: 左侧菜单树实体类   
- * @author: zhoudl  
+ * @author: xander  
  * @date:   2017年5月16日 下午7:24:45   
  *      
  */  

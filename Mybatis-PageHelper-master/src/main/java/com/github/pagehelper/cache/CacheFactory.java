@@ -33,7 +33,7 @@ import java.util.Properties;
 /**
  * CacheFactory
  *
- * @author liuzh
+ * @author xander
  */
 public abstract class CacheFactory {
 

@@ -42,7 +42,7 @@ import java.util.concurrent.locks.ReentrantLock;
 /**
  * 基础方言信息
  *
- * @author liuzh
+ * @author xander
  */
 public class PageAutoDialect {
 

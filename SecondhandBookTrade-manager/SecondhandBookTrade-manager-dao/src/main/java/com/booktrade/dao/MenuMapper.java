@@ -7,7 +7,7 @@ import com.booktrade.pojo.Menu;
 /**   
  * @ClassName:  MenuMapper   
  * @Description:    
- * @author: zhoudl  
+ * @author: xander  
  * @date:   2017年5月16日 下午8:31:47   
  *      
  */  

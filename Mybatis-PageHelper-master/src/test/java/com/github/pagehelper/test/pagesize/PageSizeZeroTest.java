@@ -38,7 +38,7 @@ import java.util.List;
 import static org.junit.Assert.assertEquals;
 
 /**
- * @author liuzh
+ * @author xander
  */
 public class PageSizeZeroTest {
 

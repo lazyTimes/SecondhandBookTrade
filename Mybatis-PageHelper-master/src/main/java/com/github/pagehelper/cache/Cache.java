@@ -27,7 +27,7 @@ package com.github.pagehelper.cache;
 /**
  * Simple cache interface
  *
- * @author liuzh
+ * @author xander
  */
 public interface Cache<K, V> {
 

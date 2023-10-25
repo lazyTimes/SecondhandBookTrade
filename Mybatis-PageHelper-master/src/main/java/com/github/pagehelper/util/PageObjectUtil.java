@@ -35,7 +35,7 @@ import java.util.Map;
 /**
  * 分页参数对象工具类
  *
- * @author liuzh
+ * @author xander
  */
 public abstract class PageObjectUtil {
     //request获取方法

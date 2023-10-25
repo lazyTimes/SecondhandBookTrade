@@ -28,8 +28,8 @@ import java.io.Serializable;
 
 /**
  * Description: Country
- * Author: liuzh
- * Update: liuzh(2014-06-06 13:38)
+ * Author: xander
+ * Update: xander(2014-06-06 13:38)
  */
 public class Country implements Serializable {
     private static final long serialVersionUID = 6569081236403751407L;

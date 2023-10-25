@@ -29,7 +29,7 @@ import net.sf.jsqlparser.JSQLParserException;
 import org.junit.Test;
 
 /**
- * @author liuzh
+ * @author xander
  */
 public class SqlTest {
 

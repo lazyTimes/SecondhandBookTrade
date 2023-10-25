@@ -37,7 +37,7 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
 /**
- * @author liuzh_3nofxnp
+ * @author xander_3nofxnp
  * @since 2015-12-26 09:15
  */
 public class TestISelect {

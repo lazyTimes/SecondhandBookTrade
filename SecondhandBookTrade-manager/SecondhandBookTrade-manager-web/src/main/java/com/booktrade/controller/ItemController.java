@@ -24,7 +24,7 @@ import com.booktrade.utils.StringUtil;
 /**   
  * @ClassName:  ItemController   
  * @Description: 书籍操作功能控制   
- * @author: zhoudl  
+ * @author: xander  
  * @date:   2017年4月8日 上午11:06:43   
  *      
  */  

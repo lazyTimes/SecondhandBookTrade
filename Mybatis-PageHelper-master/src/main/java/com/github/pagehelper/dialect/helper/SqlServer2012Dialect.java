@@ -28,7 +28,7 @@ import com.github.pagehelper.Page;
 import org.apache.ibatis.cache.CacheKey;
 
 /**
- * @author liuzh
+ * @author xander
  */
 public class SqlServer2012Dialect extends SqlServerDialect {
 

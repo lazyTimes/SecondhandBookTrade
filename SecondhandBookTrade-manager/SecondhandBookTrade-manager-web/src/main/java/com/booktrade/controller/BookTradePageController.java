@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 /**   
  * @ClassName:  BookTradePageController   
  * @Description: 系统页面跳转控制   
- * @author: zhoudl  
+ * @author: xander  
  * @date:   2017年4月8日 上午11:05:20   
  *      
  */  

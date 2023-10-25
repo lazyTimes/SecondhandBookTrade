@@ -23,7 +23,7 @@
  */
 
 /**
- * @author liuzh
+ * @author xander
  */
 public class Ognl {
     public static boolean isNotNull(Object obj) {

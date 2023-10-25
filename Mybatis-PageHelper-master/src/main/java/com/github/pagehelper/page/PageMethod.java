@@ -31,7 +31,7 @@ import com.github.pagehelper.util.PageObjectUtil;
 /**
  * 基础分页方法
  *
- * @author liuzh
+ * @author xander
  */
 public abstract class PageMethod {
     protected static final ThreadLocal<Page> LOCAL_PAGE = new ThreadLocal<Page>();

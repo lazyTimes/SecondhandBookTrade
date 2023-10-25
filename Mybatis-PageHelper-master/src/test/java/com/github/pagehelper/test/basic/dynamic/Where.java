@@ -27,7 +27,7 @@ package com.github.pagehelper.test.basic.dynamic;
 import java.util.Map;
 
 /**
- * Created by liuzh on 2015/1/11.
+ * Created by xander on 2015/1/11.
  */
 public class Where {
     private Map<String, Object> map;

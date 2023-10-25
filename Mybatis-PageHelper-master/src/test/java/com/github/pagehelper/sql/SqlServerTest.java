@@ -30,7 +30,7 @@ import org.junit.Ignore;
 import org.junit.Test;
 
 /**
- * @author liuzh
+ * @author xander
  */
 public class SqlServerTest {
     public static final SqlServerParser sqlServer = new SqlServerParser();

@@ -22,7 +22,7 @@ import com.booktrade.utils.IDUtils;
 /**   
  * @ClassName:  PictureServiceImpl   
  * @Description:上传图片处理服务实现类  
- * @author: zhoudl  
+ * @author: xander  
  * @date:   2017年4月9日 下午6:37:02   
  *      
  */  

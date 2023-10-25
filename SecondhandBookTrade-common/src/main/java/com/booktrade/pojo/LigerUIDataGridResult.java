@@ -5,7 +5,7 @@ import java.util.List;
 /**   
  * @ClassName:  LigerUIDataGridResult   
  * @Description: LigetUI框架 Grid组件所需数据封装格式   
- * @author: zhoudl  
+ * @author: xander  
  * @date:   2017年4月8日 下午1:16:43   
  *      
  */  

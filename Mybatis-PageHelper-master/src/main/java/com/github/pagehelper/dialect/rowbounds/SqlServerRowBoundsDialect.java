@@ -34,7 +34,7 @@ import org.apache.ibatis.session.RowBounds;
 /**
  * sqlserver 基于 RowBounds 的分页
  *
- * @author liuzh
+ * @author xander
  */
 public class SqlServerRowBoundsDialect extends AbstractRowBoundsDialect {
     protected SqlServerParser pageSql = new SqlServerParser();

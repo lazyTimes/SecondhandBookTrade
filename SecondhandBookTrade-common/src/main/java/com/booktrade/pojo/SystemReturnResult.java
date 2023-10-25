@@ -8,7 +8,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 /**   
  * @ClassName:  SystemReturnResult   
  * @Description: 系统自定义响应结构   
- * @author: zhoudl  
+ * @author: xander  
  * @date:   2017年4月8日 下午1:20:55   
  *      
  */  

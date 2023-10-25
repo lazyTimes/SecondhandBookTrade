@@ -25,7 +25,7 @@
 package com.github.pagehelper.model;
 
 /**
- * @author liuzh
+ * @author xander
  * @since 2015-11-07 14:39
  */
 public class CountryQueryModel {

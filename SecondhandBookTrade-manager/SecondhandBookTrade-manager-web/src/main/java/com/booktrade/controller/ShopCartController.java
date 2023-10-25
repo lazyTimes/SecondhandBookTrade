@@ -25,7 +25,7 @@ import com.booktrade.utils.StringUtil;
 /**   
  * @ClassName:  ShopCartController   
  * @Description:购物车控制器   
- * @author: zhoudl  
+ * @author: xander  
  * @date:   2017年5月21日 下午12:49:14   
  *      
  */  

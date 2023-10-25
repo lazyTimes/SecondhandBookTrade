@@ -34,7 +34,7 @@ import java.util.Properties;
 /**
  * Simple MyBatis Cache
  *
- * @author liuzh
+ * @author xander
  */
 public class SimpleCache<K, V> implements Cache<K, V> {
 

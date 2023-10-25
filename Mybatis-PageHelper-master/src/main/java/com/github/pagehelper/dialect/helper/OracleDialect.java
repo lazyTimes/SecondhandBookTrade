@@ -29,7 +29,7 @@ import com.github.pagehelper.dialect.AbstractHelperDialect;
 import org.apache.ibatis.cache.CacheKey;
 
 /**
- * @author liuzh
+ * @author xander
  */
 public class OracleDialect extends AbstractHelperDialect {
 

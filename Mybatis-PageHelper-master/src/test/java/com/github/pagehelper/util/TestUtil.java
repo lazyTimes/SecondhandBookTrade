@@ -29,7 +29,7 @@ import java.io.InputStream;
 import java.util.Properties;
 
 /**
- * @author liuzh
+ * @author xander
  */
 public class TestUtil {
     public static String XML_PATH;

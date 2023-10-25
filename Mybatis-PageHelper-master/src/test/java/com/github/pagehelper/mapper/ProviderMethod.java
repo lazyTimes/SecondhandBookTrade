@@ -30,7 +30,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author liuzh
+ * @author xander
  */
 public class ProviderMethod {
 

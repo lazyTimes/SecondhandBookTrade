@@ -38,7 +38,7 @@ import org.junit.Test;
 import java.util.List;
 
 /**
- * @author liuzh
+ * @author xander
  */
 public class FunctionCountTest {
     public static Select select(String sql) {

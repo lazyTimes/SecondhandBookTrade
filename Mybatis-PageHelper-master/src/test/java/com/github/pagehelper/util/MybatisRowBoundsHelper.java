@@ -36,8 +36,8 @@ import java.sql.Connection;
 
 /**
  * Description: MybatisHelper
- * Author: liuzh
- * Update: liuzh(2014-06-06 13:33)
+ * Author: xander
+ * Update: xander(2014-06-06 13:33)
  */
 public class MybatisRowBoundsHelper {
 

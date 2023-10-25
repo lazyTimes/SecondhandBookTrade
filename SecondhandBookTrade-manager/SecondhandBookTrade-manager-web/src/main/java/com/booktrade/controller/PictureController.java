@@ -17,7 +17,7 @@ import com.booktrade.utils.JsonUtils;
 /**   
  * @ClassName:  PictureController   
  * @Description:图片上传控制器   
- * @author: zhoudl  
+ * @author: xander  
  * @date:   2017年4月9日 下午6:38:09   
  *      
  */  

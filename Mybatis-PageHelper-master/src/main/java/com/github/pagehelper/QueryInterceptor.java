@@ -39,7 +39,7 @@ import java.util.Properties;
  *
  * 详细说明见文档：https://github.com/pagehelper/Mybatis-PageHelper/blob/master/wikis/zh/Interceptor.md
  *
- * @author liuzh/abel533/isea533
+ * @author xander/abel533/isea533
  * @version 1.0.0
  */
 @Intercepts(

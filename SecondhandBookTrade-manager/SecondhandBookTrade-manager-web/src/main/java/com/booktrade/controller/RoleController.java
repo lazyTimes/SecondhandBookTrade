@@ -21,7 +21,7 @@ import com.booktrade.utils.StringUtil;
 /**   
  * @ClassName:  RoleController   
  * @Description: 角色管理   
- * @author: zhoudl  
+ * @author: xander  
  * @date:   2017年4月8日 上午11:06:43   
  *      
  */  

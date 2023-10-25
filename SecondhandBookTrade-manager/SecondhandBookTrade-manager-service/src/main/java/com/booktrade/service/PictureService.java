@@ -8,7 +8,7 @@ import com.booktrade.pojo.PictureResult;
 /**   
  * @ClassName:  PictureService   
  * @Description:上传图片处理Service   
- * @author: zhoudl  
+ * @author: xander  
  * @date:   2017年4月9日 下午6:36:13   
  *      
  */  

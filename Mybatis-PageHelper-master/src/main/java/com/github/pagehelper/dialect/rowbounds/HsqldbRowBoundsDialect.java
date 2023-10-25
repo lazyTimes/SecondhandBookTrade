@@ -31,7 +31,7 @@ import org.apache.ibatis.session.RowBounds;
 /**
  * hsqldb 基于 RowBounds 的分页
  *
- * @author liuzh
+ * @author xander
  */
 public class HsqldbRowBoundsDialect extends AbstractRowBoundsDialect {
 

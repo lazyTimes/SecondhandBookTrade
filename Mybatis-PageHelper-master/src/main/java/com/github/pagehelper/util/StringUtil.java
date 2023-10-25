@@ -25,7 +25,7 @@
 package com.github.pagehelper.util;
 
 /**
- * @author liuzh
+ * @author xander
  * @since 4.1.0
  */
 public class StringUtil {

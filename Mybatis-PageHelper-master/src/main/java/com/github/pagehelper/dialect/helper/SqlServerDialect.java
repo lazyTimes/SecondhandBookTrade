@@ -38,7 +38,7 @@ import org.apache.ibatis.session.RowBounds;
 import java.util.Properties;
 
 /**
- * @author liuzh
+ * @author xander
  */
 public class SqlServerDialect extends AbstractHelperDialect {
     protected SqlServerParser pageSql = new SqlServerParser();
